@@ -1,0 +1,2 @@
+2024-04-12 (A) Shift to gorilla/websockets
+2024-04-12 (A) Implement the Auth Logic
